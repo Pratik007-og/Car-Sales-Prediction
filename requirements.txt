@@ -5,6 +5,7 @@ async-generator==1.10
 attrs==20.3.0
 certifi==2020.12.5
 cffi==1.14.5
+flask==2.0.1
 google-auth==1.27.1
 google-auth-oauthlib==0.4.3
 google-pasta==0.2.0
