@@ -2,7 +2,7 @@
 # Car Selling Price Prediction
 
 This project is an end-to-end project including deployment which calculates the currect selling price of a car taking into consideration various parameters or features like Fuel Type, Number of previous owners, Initial buying price, Age of the car etc.
-It makes use of a regression model using RandomForestRegressor to calculate the selling price.
+It makes use of a regression to calculate the selling price based on the given features of a car.
 
 
 
